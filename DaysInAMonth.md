@@ -8,7 +8,7 @@ PROCEDURE:
 	STEP-2: Declare teh variables that we are about to use.
 	STEP-3: Instantiate the Scanner class.
 	STEP-4: Get two numbers as input from the user.
-	STEP-5: Perform all arithmetic operations such as Addition,Difference,Product,Quotient and Modulus and print the output.
+	STEP-5: Calculate the number of months and print the output.
 	STEP-6: Close the object of the Scanner class.
 PROGRAM:
 
@@ -52,4 +52,4 @@ OUTPUT:
 
 RESULT:
 
-	The Java program to perform arithmetic operations is written,compile,executed and the desired output is obtained successfully.
+	The Java program to find the number of days in a month is written,compile,executed and the desired output is obtained successfully.
