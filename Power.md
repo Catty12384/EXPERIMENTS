@@ -45,5 +45,5 @@ OUTPUT:
 
 CONCLUSION:
 
-		The Java program to calculate power of a number raised to other is written,compile,executed and the desired output is obtained successfully.
+	The Java program to calculate power of a number raised to other is written,compile,executed and the desired output is obtained successfully.
 
