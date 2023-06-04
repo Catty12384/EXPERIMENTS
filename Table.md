@@ -53,6 +53,10 @@ PROGRAM:
 		}
 	}
 
+OUTPUT:
+
+![image](https://github.com/Catty12384/EXPERIMENTS/assets/120629225/55d4dbf5-8d49-4d00-a7fe-d894523253d2)
+
 CONCLUSION:
 
 	The java program to print the information (name, year of joining, salary, address) of three employees by creating a class named 'Employee' is written, compiled, executed and the desired output is obtained successfully.
